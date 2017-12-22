@@ -24,8 +24,9 @@ github_username:  verzada
 
 # Build settings
 markdown: kramdown
-#theme: minima
-theme: hacker
+theme: minima
+#theme: jekyll-theme-hacker
+#theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
